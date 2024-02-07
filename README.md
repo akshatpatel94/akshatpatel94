@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Akshat Patel</h1>
-<h3 align="center">I'm a full stack developer and passionate about new technology.</h3>
+<h3 align="center">I'm a full stack developer and passionate about new technologies.</h3>
 
 <h2>About me </h2>
 
