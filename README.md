@@ -1,6 +1,6 @@
-### Hi there 👋, I am Akshat Patel
+# Hi there 👋, I am Akshat Patel
 
-# About me
+## About me
 
 - 🔭 I’m currently working on JavaScript, React and Python.
 - 🌱 I’m currently learning AI.
