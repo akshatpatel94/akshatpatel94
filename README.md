@@ -10,14 +10,14 @@
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Angular, Pyhton, DSA
 - 📫 How to reach me: akshatpatel94@gmail.com
 
-  <p algn="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatpatel94&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="akshat patel" />
+<p align="center">
+  <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=akshatpatel94&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="akshat patel" />
     </p>
-  <p algn="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatpatel94&theme=vue-dark&hide_border=false" alt="akshat patel" />
+  <p align="center">
+<img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatpatel94&theme=vue-dark&hide_border=false" alt="akshat patel" />
     </p>
-  <p algn="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatpatel94&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="akshat patel" />
+  <p align="center">
+  <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatpatel94&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="akshat patel" />
     </p>
 
 <!-- 
